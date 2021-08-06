@@ -6,7 +6,7 @@
 - React MaterialUI
 ## BackEnd Technologies
 - NodeJS
-- FastifyJS
+- ExpressJS
 - MongoDB
 - Socket.io
 ## Deployment Platform 
